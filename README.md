@@ -95,7 +95,6 @@ Telecom-Customer-Churn-Analysis-SQL
 │   ├── 08_Stored_Procedure.sql
 │   └── 09_Final_Business_Report.sql
 │
-├── Screenshots
 │
 └── README.md
 ```
@@ -176,8 +175,7 @@ Through this project I learned:
 ## 👨‍💻 Author
 
 **Nasimuddin Ansari**
-
-B.Tech CSE (AI Engineering)
+B.Tech CS[DS+AI]
 
 GitHub:
 https://github.com/NasimAnsari06
